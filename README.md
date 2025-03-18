@@ -1,1 +1,1 @@
-# SQL_Resume_Project
+# 📚 SQL Bookstore Project 
